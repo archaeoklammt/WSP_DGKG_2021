@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+<name>Holger Simon</name>
+<description>University of Cologne University of Cologne</description>
+<Point><coordinates>6.928611111,50.928055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Lisa Dieckmann</name>
+<description>University of Cologne University of Cologne</description>
+<Point><coordinates>6.928611111,50.928055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Mabi Angar</name>
+<description>University of Cologne University of Cologne</description>
+<Point><coordinates>6.928611111,50.928055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Hubertus Kohle</name>
+<description>Ludwig Maximilian University of Munich Ludwig Maximilian University of Munich</description>
+<Point><coordinates>11.580277777,48.150833333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Stephan Hoppe</name>
+<description>Ludwig Maximilian University of Munich Ludwig Maximilian University of Munich</description>
+<Point><coordinates>11.580277777,48.150833333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thorsten Wuebbena</name>
+<description>Heidelberg University Heidelberg University</description>
+<Point><coordinates>8.706388888,49.410277777,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Georg Schelbert</name>
+<description>Humboldt University of Berlin Humboldt University of Berlin</description>
+<Point><coordinates>13.393333333,52.518055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Michael Müller</name>
+<description>Humboldt University of Berlin Humboldt University of Berlin</description>
+<Point><coordinates>13.393333333,52.518055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Michael Müller</name>
+<description>Freie Universität Berlin Freie Universität Berlin</description>
+<Point><coordinates>13.290555555,52.453055555,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anna Schreurs</name>
+<description>University of Freiburg University of Freiburg</description>
+<Point><coordinates>7.846944444,47.994166666,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ute Verstegen</name>
+<description>University of Marburg University of Marburg</description>
+<Point><coordinates>8.773611111,50.810833333,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thorsten Wuebbena</name>
+<description>Deutsches Forum für Kunstgeschichte Deutsches Forum für Kunstgeschichte</description>
+<Point><coordinates>2.335739722,48.867,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anne Klammt</name>
+<description>Deutsches Forum für Kunstgeschichte Deutsches Forum für Kunstgeschichte</description>
+<Point><coordinates>2.335739722,48.867,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Ralph Knickmeier</name>
+<description>Belvedere Belvedere</description>
+<Point><coordinates>16.38049,48.19139,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Georg Schelbert</name>
+<description>Bibliotheca Hertziana – Max Planck Institute of Art History Bibliotheca Hertziana – Max Planck Institute of Art History</description>
+<Point><coordinates>12.48414,41.90534,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Martin Raspe</name>
+<description>Bibliotheca Hertziana – Max Planck Institute of Art History Bibliotheca Hertziana – Max Planck Institute of Art History</description>
+<Point><coordinates>12.48414,41.90534,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Tatjana Bartsch</name>
+<description>Bibliotheca Hertziana – Max Planck Institute of Art History Bibliotheca Hertziana – Max Planck Institute of Art History</description>
+<Point><coordinates>12.48414,41.90534,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Florian Thiery</name>
+<description>Mainz University of Applied Sciences Mainz University of Applied Sciences</description>
+<Point><coordinates>8.2270517,49.9882478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Fabian Cremer</name>
+<description>Göttingen State and University Library Göttingen State and University Library</description>
+<Point><coordinates>9.93639,51.5397,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anne Klammt</name>
+<description>Göttingen State and University Library Göttingen State and University Library</description>
+<Point><coordinates>9.93639,51.5397,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thorsten Wuebbena</name>
+<description>Saarland University Saarland University</description>
+<Point><coordinates>7.04166667,49.25555556,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Andreas Tacke</name>
+<description>University of Trier University of Trier</description>
+<Point><coordinates>6.687777777,49.7475,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Georg Schelbert</name>
+<description>University of Trier University of Trier</description>
+<Point><coordinates>6.687777777,49.7475,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anna Schreurs</name>
+<description>Kunsthistorisches Institut in Florenz Kunsthistorisches Institut in Florenz</description>
+<Point><coordinates>11.264,43.7772,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Florian Thiery</name>
+<description>Römisch-Germanisches Zentralmuseum Römisch-Germanisches Zentralmuseum</description>
+<Point><coordinates>8.26972,50.0061,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Maria Effinger</name>
+<description>University Library Heidelberg University Library Heidelberg</description>
+<Point><coordinates>8.70583,49.4097,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Matthias Arnold</name>
+<description>University Library Heidelberg University Library Heidelberg</description>
+<Point><coordinates>8.70583,49.4097,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Antje Schmidt</name>
+<description>Museum of Art and Crafts Hamburg Museum of Art and Crafts Hamburg</description>
+<Point><coordinates>10.009444,53.551111,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Filomena Lopedoto</name>
+<description>IST-Hochschule für Management IST-Hochschule für Management</description>
+<Point><coordinates>6.8135045,51.2191041,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Anna Schreurs</name>
+<description>Institute of Art History, Goethe-University Frankfurt Institute of Art History, Goethe-University Frankfurt</description>
+<Point><coordinates>8.652256388,50.1184875,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>Thorsten Wuebbena</name>
+<description>Institute of Art History, Goethe-University Frankfurt Institute of Art History, Goethe-University Frankfurt</description>
+<Point><coordinates>8.652256388,50.1184875,0</coordinates></Point>
+</Placemark>
+</Document>
+</kml>
