@@ -113,7 +113,7 @@ SELECT ?MitgliedLabel ?employerLabel ?coord WHERE {
 
 
 
-Übersetzt steht dort: *"Suche nach Wikidata-Elementen, die die Eigenschaft haben, ein Mitglied des Arbeitskreis Digitale Kunstgeschichte zu sein, und für die es zudem einen (oder mehrere) Einträge mit der Eigenschaft Employer gibt, für die also Arbeitgeber angegeben sind. Zeige mir von diesen Arbeitgebern die Koordinaten an. Gebe mir dabei aus, den Namen des Mitglieds (?MitgliedLabel),den Namen des Arbeitgebers (?employerLabel) und schließlich die Koordinaten (?coord). Die Ansicht der Ergebnisse soll als Karte angezeigt werden"*
+Übersetzt steht dort: *"Suche nach Wikidata-Elementen, die die Eigenschaft haben, ein Mitglied des Arbeitskreises Digitale Kunstgeschichte zu sein, und für die es zudem einen (oder mehrere) Einträge mit der Eigenschaft Employer gibt, für die also Arbeitgeber angegeben sind. Zeige mir von diesen Arbeitgebern die Koordinaten an. Gebe mir dabei aus, den Namen des Mitglieds (?MitgliedLabel),den Namen des Arbeitgebers (?employerLabel) und schließlich die Koordinaten (?coord). Die Ansicht der Ergebnisse soll als Karte angezeigt werden"*
 
 
 ---
