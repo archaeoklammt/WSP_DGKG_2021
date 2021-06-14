@@ -1,4 +1,4 @@
-title : Von Daten zu Geodaten und Visualsierungen mit einem Raumbezug
+title : Von Daten zu Geodaten und Visualisierungen mit einem Raumbezug
 
 author : Anne Klammt
 
